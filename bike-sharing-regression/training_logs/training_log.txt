@@ -1,0 +1,6 @@
+============= PASS =============
+IT: 6000 | LR: 0.7 | HL: 20
+Train loss: 0.061111658786418305
+Validate loss: 0.1253951468501087
+Minimum validation loss: 0.12203612972870308 at iteration 5997
+

@@ -1,0 +1,204 @@
+============= PASS =============
+IT: 6000 | LR: 0.4 | HL: 20
+Train loss: 0.06129172600419871
+Validate loss: 0.1542218119849213
+Minimum validation loss: 0.14141230004812574 at iteration 5130
+
+============= PASS =============
+IT: 6000 | LR: 0.42000000000000004 | HL: 20
+Train loss: 0.06526384807702881
+Validate loss: 0.15393866342192924
+Minimum validation loss: 0.1401117196908779 at iteration 4901
+
+============= PASS =============
+IT: 6000 | LR: 0.44000000000000006 | HL: 20
+Train loss: 0.06691020967813
+Validate loss: 0.15664354850561948
+Minimum validation loss: 0.1425058212178218 at iteration 4775
+
+============= PASS =============
+IT: 6000 | LR: 0.4600000000000001 | HL: 20
+Train loss: 0.06611804919930886
+Validate loss: 0.14231755385372133
+Minimum validation loss: 0.14118206871869898 at iteration 5029
+
+============= PASS =============
+IT: 6000 | LR: 0.4800000000000001 | HL: 20
+Train loss: 0.05684577893585247
+Validate loss: 0.14726272898052561
+Minimum validation loss: 0.13770314195601976 at iteration 4178
+
+============= PASS =============
+IT: 6000 | LR: 0.5000000000000001 | HL: 20
+Train loss: 0.05704882526573285
+Validate loss: 0.16127549593950158
+Minimum validation loss: 0.13207704858441438 at iteration 5531
+
+============= PASS =============
+IT: 6000 | LR: 0.5200000000000001 | HL: 20
+Train loss: 0.053782184347180184
+Validate loss: 0.13927331973318424
+Minimum validation loss: 0.13271313761286882 at iteration 4467
+
+============= PASS =============
+IT: 6000 | LR: 0.5400000000000001 | HL: 20
+Train loss: 0.054713458812902356
+Validate loss: 0.1461229425877961
+Minimum validation loss: 0.12912849869835316 at iteration 5217
+
+============= PASS =============
+IT: 6000 | LR: 0.5600000000000002 | HL: 20
+Train loss: 0.06103860985449193
+Validate loss: 0.1455447509479932
+Minimum validation loss: 0.1350370637031332 at iteration 4680
+
+============= PASS =============
+IT: 6000 | LR: 0.5800000000000002 | HL: 20
+Train loss: 0.056979170980082434
+Validate loss: 0.1500765673994337
+Minimum validation loss: 0.1260947882879571 at iteration 5106
+
+============= PASS =============
+IT: 6000 | LR: 0.6000000000000002 | HL: 20
+Train loss: 0.05923597235049002
+Validate loss: 0.12873399907101157
+Minimum validation loss: 0.125806045503133 at iteration 5351
+
+============= PASS =============
+IT: 6000 | LR: 0.6200000000000002 | HL: 20
+Train loss: 0.05570148524104179
+Validate loss: 0.14982035644799727
+Minimum validation loss: 0.13625388777789568 at iteration 3560
+
+============= PASS =============
+IT: 6000 | LR: 0.6400000000000002 | HL: 20
+Train loss: 0.05291799377753347
+Validate loss: 0.1318901387450508
+Minimum validation loss: 0.11859602729568926 at iteration 5311
+
+============= PASS =============
+IT: 6000 | LR: 0.6600000000000003 | HL: 20
+Train loss: 0.05639038469832223
+Validate loss: 0.13136071271273625
+Minimum validation loss: 0.13004176755205654 at iteration 5082
+
+============= PASS =============
+IT: 6000 | LR: 0.6800000000000003 | HL: 20
+Train loss: 0.05954153243421606
+Validate loss: 0.14987818532556693
+Minimum validation loss: 0.13389367003662528 at iteration 4708
+
+============= PASS =============
+IT: 6000 | LR: 0.7000000000000003 | HL: 20
+Train loss: 0.05313178591539886
+Validate loss: 0.13831629258730532
+Minimum validation loss: 0.1281718578377611 at iteration 3929
+
+============= PASS =============
+IT: 6000 | LR: 0.7200000000000003 | HL: 20
+Train loss: 0.05758412625751201
+Validate loss: 0.1255187865424966
+Minimum validation loss: 0.1260468370738807 at iteration 5170
+
+============= PASS =============
+IT: 6000 | LR: 0.7400000000000003 | HL: 20
+Train loss: 0.060839053138307085
+Validate loss: 0.1697923973757606
+Minimum validation loss: 0.13894403961453414 at iteration 5910
+
+============= PASS =============
+IT: 6000 | LR: 0.7600000000000003 | HL: 20
+Train loss: 0.0666687489485671
+Validate loss: 0.1711718780994198
+Minimum validation loss: 0.1516785053443544 at iteration 5490
+
+============= PASS =============
+IT: 6000 | LR: 0.7800000000000004 | HL: 20
+Train loss: 0.06792401501210972
+Validate loss: 0.15494873138482082
+Minimum validation loss: 0.13094291510695955 at iteration 5499
+
+============= PASS =============
+IT: 6000 | LR: 0.38 | HL: 20
+Train loss: 0.06448936089847988
+Validate loss: 0.1522898701330173
+Minimum validation loss: 0.14470524655078584 at iteration 5941
+
+============= PASS =============
+IT: 6000 | LR: 0.41000000000000003 | HL: 20
+Train loss: 0.06413153607544575
+Validate loss: 0.1403104426420348
+Minimum validation loss: 0.13627571372306516 at iteration 5841
+
+============= PASS =============
+IT: 6000 | LR: 0.44000000000000006 | HL: 20
+Train loss: 0.05962475104318443
+Validate loss: 0.1534042868872585
+Minimum validation loss: 0.143651184865934 at iteration 4995
+
+============= FAIL =============
+IT: 6000 | LR: 0.4700000000000001 | HL: 20
+Train loss: 0.05772737994277236
+Validate loss: 0.1889291483150842
+Minimum validation loss: 0.15489919735162103 at iteration 4013
+
+============= PASS =============
+IT: 6000 | LR: 0.5000000000000001 | HL: 20
+Train loss: 0.05489671328441248
+Validate loss: 0.15378995362673167
+Minimum validation loss: 0.13099626367372919 at iteration 5168
+
+============= FAIL =============
+IT: 6000 | LR: 0.5300000000000001 | HL: 20
+Train loss: 0.056823237799898424
+Validate loss: 0.18224237051797595
+Minimum validation loss: 0.1488795216388693 at iteration 5208
+
+============= PASS =============
+IT: 6000 | LR: 0.5600000000000002 | HL: 20
+Train loss: 0.06038054580735613
+Validate loss: 0.1395780489265473
+Minimum validation loss: 0.1331136680148383 at iteration 5616
+
+============= PASS =============
+IT: 6000 | LR: 0.5900000000000002 | HL: 20
+Train loss: 0.05683696621509781
+Validate loss: 0.1558218634967229
+Minimum validation loss: 0.13844140581195488 at iteration 3794
+
+============= PASS =============
+IT: 6000 | LR: 0.6200000000000002 | HL: 20
+Train loss: 0.05430252441733908
+Validate loss: 0.13220522378651214
+Minimum validation loss: 0.12928908562379718 at iteration 4370
+
+============= PASS =============
+IT: 6000 | LR: 0.6500000000000002 | HL: 20
+Train loss: 0.057062945129812054
+Validate loss: 0.12843436625624416
+Minimum validation loss: 0.12543391206313273 at iteration 4283
+
+============= PASS =============
+IT: 6000 | LR: 0.6800000000000003 | HL: 20
+Train loss: 0.0526786262524563
+Validate loss: 0.12775630132040636
+Minimum validation loss: 0.12189689097843345 at iteration 4277
+
+============= PASS =============
+IT: 6000 | LR: 0.7100000000000003 | HL: 20
+Train loss: 0.06725283677760306
+Validate loss: 0.13398350888618377
+Minimum validation loss: 0.13045617106693905 at iteration 3980
+
+============= PASS =============
+IT: 6000 | LR: 0.7400000000000003 | HL: 20
+Train loss: 0.05391936670618368
+Validate loss: 0.1225253565044807
+Minimum validation loss: 0.12272359275671703 at iteration 4913
+
+============= PASS =============
+IT: 6000 | LR: 0.7700000000000004 | HL: 20
+Train loss: 0.07456012254082045
+Validate loss: 0.16039352604099655
+Minimum validation loss: 0.16120739219169994 at iteration 4455
+
