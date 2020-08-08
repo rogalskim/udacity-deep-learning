@@ -8,11 +8,11 @@ This repository serves as a container for archiving all the work completed for t
 
 __Projects__
 1. [Predicting Bike-Sharing Patterns](/bike-sharing-regression)
-   - An introductory project about manually building a simple MLP from scratch. 
-   - The network is then trained for a regression task. 
-   - Some extra work with documenting the hyperparameter tuning process.
+   - Manually building a simple MLP from scratch. 
+   - Training the network for a regression task. 
+   - Documenting the hyperparameter tuning process.
 2. [Dog-Breed Classifier](/dog-classifier) 
-   - Transfer-learning of a CNN in PyTorch for image classification.
+   - Building a CNN for image classification using transfer-learning and PyTorch.
    - Image data pre-processing.
    - Discriminating between human and dog images, as well as classifying dog breeds.
 3. [Generate TV Scripts](/tv-script-generator)
