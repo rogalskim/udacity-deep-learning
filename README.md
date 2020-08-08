@@ -2,7 +2,7 @@
 Projects and exercises from the Deep Learning course at Udacity
 
 ### Overview
-This repository serves as a container for archiving all the work completed for the Deep Learning course at Udacity. This is meant to keep things tidy and organized, with all the related code in one place. Originally, each project had its own repository, but it led to too much clutter, as Github doesn’t currently offer any means of grouping one’s repos.
+This repository serves as a container for archiving all the work completed for the [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101) course at Udacity. This is meant to keep things tidy and organized, with all the related code in one place. Originally, each project had its own repository, but it led to too much clutter, as Github doesn’t currently offer any means of grouping one’s repos.
 
 ### Contents
 
@@ -29,6 +29,6 @@ __Projects__
    - Deploying the model using endpoints, Lambda and API Gateway.
 
 __[Exercises](/exercises)__
-- Various smaller projects, often involving building and training different NN architecutres and learning key ML concepts.
+- Various smaller projects, often involving building and training different NN architectures and learning key ML concepts.
 - Mostly done in Jupter and Pytorch.
 - Some use Tensorflow + Keras as well.
